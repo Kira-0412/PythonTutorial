@@ -1,0 +1,7 @@
+# Arithmetic Operator
+num1=10
+num2=45
+num2+=3
+num3=num1+num2 # num1, num2 and num3 are Operands and "=" is operator
+
+print(num3)
